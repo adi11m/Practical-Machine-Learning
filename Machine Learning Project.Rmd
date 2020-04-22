@@ -2,7 +2,10 @@
 title: Practical Machine Learning Project Report
 author: "Vikramaditya Maheshwari"
 output:
-  html_document
+  pdf_document:
+    keep_tex: true
+  html_document:
+    toc: true
 ---
 
 ## Introduction  
